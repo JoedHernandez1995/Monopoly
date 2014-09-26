@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tablero.png</file>
+        <file>dado1.png</file>
+        <file>dado2.png</file>
+        <file>dado3.png</file>
+        <file>dado4.png</file>
+        <file>dado5.png</file>
+        <file>dado6.png</file>
+        <file>batman.png</file>
+        <file>Atlantic Avenue.png</file>
+        <file>B &amp; O Railroad.png</file>
+        <file>Baltic Avenue.png</file>
+        <file>Boardwalk.png</file>
+        <file>Connecticut Avenue.png</file>
+        <file>Illinois Avenue.png</file>
+        <file>Indiana Avenue.png</file>
+        <file>Kentucky Avenue.png</file>
+        <file>Marvin Gardens.png</file>
+        <file>New York Avenue.png</file>
+        <file>North Carolina Avenue.png</file>
+        <file>Oriental Avenue.png</file>
+        <file>Pacific Avenue.png</file>
+        <file>Park Place.png</file>
+        <file>Pensylvania Avenue.png</file>
+        <file>Reading Railroad.png</file>
+        <file>Short Line Railroad.png</file>
+        <file>St. Charles Place.png</file>
+        <file>St. James Place.png</file>
+        <file>States Avenue.png</file>
+        <file>Tennesse Avenue.png</file>
+        <file>Ventnor Avenue.png</file>
+        <file>Vermont Avenue.png</file>
+        <file>Virginia Avenue.png</file>
+        <file>Pennsylvania Railroad.png</file>
+        <file>Water Works.jpg</file>
+        <file>Electric Company.jpg</file>
+        <file>logo.jpg</file>
+        <file>chance.gif</file>
+        <file>chest.gif</file>
+        <file>Mediterranean Avenue.png</file>
+        <file>carro.png</file>
+        <file>perro.png</file>
+    </qresource>
+</RCC>
